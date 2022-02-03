@@ -21,10 +21,10 @@ description: 编程,算法
 
 ## 需知
 1.只接受博客等个人性质的网站
-1.必须确保您已经将[https://www.dearxuan.top](https://www.dearxuan.top) 添加至贵站的友链.<br/>
-2.必须使用您自己的独立域名.<br/>
-3.网站必须以非营利性为目的,但允许有少量广告.<br/>
-4.内容需符合中国大陆相关法律法规.<br/>
+2.必须确保您已经将[https://www.dearxuan.top](https://www.dearxuan.top) 添加至贵站的友链.<br/>
+3.必须使用您自己的独立域名.<br/>
+4.网站必须以非营利性为目的,但允许有少量广告.<br/>
+5.内容需符合中国大陆相关法律法规.<br/>
 
 ## Labels与对应解释
 active:网站正常展示.<br/>
