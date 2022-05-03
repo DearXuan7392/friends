@@ -1,6 +1,6 @@
 ## DearXuan的友链仓库
 请自行添加Issues,不要修改格式.<br/>
-贵站将会被添加在[https://www.dearxuan.top/friends](https://www.dearxuan.top/friends)的“挚友”模块下.<br/>
+贵站将会被添加在[https://blog.dearxuan.com/friends](https://blog.dearxuan.com/friends)的“挚友”模块下.<br/>
 如需修改网页,请直接修改Issues.<br/>
 
 ## 模板解释
@@ -10,18 +10,17 @@ avatar:头像.<br/>
 screenshot:截屏.<br/>
 description:描述.<br/>
 模板最下方填写贵站友链页地址.<br/>
-推荐使用[去不图床](https://7bu.top/)来加速.<br/>
 
 ## 添加本站友链
 title: DearXuan<br/>
-url: https://www.dearxuan.top<br/>
-avatar: https://bu.dusays.com/2021/08/25/32f61f6ad6985.png<br/>
-screenshot: https://bu.dusays.com/2021/08/27/c0424b7eb583a.jpg<br/>
+url: https://blog.dearxuan.com<br/>
+avatar: https://pic.dearxuan.com/webinfo/logo.png<br/>
+screenshot: https://pic.dearxuan.com/webinfo/screenshot.jpg<br/>
 description: 编程,算法
 
 ## 需知
 1.只接受博客等个人性质的网站<br/>
-2.必须确保您已经将[https://www.dearxuan.top](https://www.dearxuan.top) 添加至贵站的友链.<br/>
+2.必须确保您已经将[https://blog.dearxuan.com](https://blog.dearxuan.com) 添加至贵站的友链.<br/>
 3.必须使用您自己的独立域名.<br/>
 4.网站必须以非营利性为目的,但允许有少量广告.<br/>
 5.内容需符合中国大陆相关法律法规.<br/>
